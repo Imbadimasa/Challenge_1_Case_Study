@@ -92,7 +92,7 @@ There are a few features that come to mind when considering a possible future of
 
 * [Finextra](https://www.finextra.com/pressarticle/93616/investment-research-firm-tegus-acquires-catalyst)
 
-* [ResearchANDMarkets] (https://www.researchandmarkets.com/?gclid=Cj0KCQiAi8KfBhCuARIsADp-A547mwa2Jv7-Rki0cduzy1RtJZvnXBwCUSEF9UZIZzFtj72yItwbCGIaAkATEALw_wcB)
+* [ResearchANDMarkets](https://www.researchandmarkets.com/?gclid=Cj0KCQiAi8KfBhCuARIsADp-A547mwa2Jv7-Rki0cduzy1RtJZvnXBwCUSEF9UZIZzFtj72yItwbCGIaAkATEALw_wcB)
 
 * [LinkedIn](https://www.linkedin.com/company/canalyst/)
 
