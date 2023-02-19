@@ -79,7 +79,7 @@ There are a few features that come to mind when considering a possible future of
 
 * Enhanced customization options: Canalyst by Tegus already offers comprehensive financial modeling and analysis tools, but they could consider offering enhanced customization options for its users. This could include allowing users to create custom metrics or perform more granular analysis on specific companies or industries.
 
-* Industry-specific analysis: Canalyst by Tegus could consider offering industry-specific analysis to its subscribers. This would involve deep dives into the financials and trends of specific industries, such as healthcare or technology. By offering this service, Canalyst by Tegus could differentiate itself from competitors and provide additional value to its subscribers.
+* Industry-specific analysis: The company could consider offering industry-specific analysis to its subscribers. This would involve deep dives into the financials and trends of specific industries, such as healthcare or technology. By offering this service, Canalyst by Tegus could differentiate itself from competitors and provide additional value to its subscribers.
 
 * Mobile app: Canalyst by Tegus could consider offering a mobile app for its subscribers. This would allow users to access the platform on-the-go and receive push notifications for important updates or changes to their financial models.
 
